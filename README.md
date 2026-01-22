@@ -92,29 +92,4 @@ Examples include:
 - ER Modeling and Relational Design
 - Triggers, Cursors, Procedures, and Exceptions
 
----
 
-## 🚀 How to Use
-
-1. Execute the DDL scripts to create the schema
-2. Load sample or test data
-3. Run triggers and stored procedures
-4. Execute analytical SQL queries for insights
-5. Review outputs using `DBMS_OUTPUT`
-
----
-
-## 📁 Repository Structure
-
-```text
-├── ddl/
-│   └── table_creation.sql
-├── procedures/
-│   └── business_logic_procedures.sql
-├── triggers/
-│   └── automation_triggers.sql
-├── queries/
-│   └── analytical_queries.sql
-├── docs/
-│   └── Database_Design_Report.pdf
-└── README.md
